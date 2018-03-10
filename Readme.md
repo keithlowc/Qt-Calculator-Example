@@ -5,11 +5,17 @@ Example of a PYQT5 calculator
 To test:
 
   # $python3 main.py 
-  This will show the gui and funtionality of the app.
+  
+  - This will show the gui and funtionality of the app.
 
-If you want to compile it:
+Before compiling make sure to have py2app:
 
-  # $python3 setup.py py2app 
-  After this you will find your app in the Dist folder.
+  # $pip3 install py2app
+  
+To compile:
+
+  # $python3 setup.py py2app
+  
+  - After this you will find your app in the Dist folder.
   
   
