@@ -1,4 +1,4 @@
-#Example of a PYQT5 calculator
+# Example of a PYQT5 calculator
 
 **Note:** This is not a complete application it still has some bugs. Created for educational purposes.
 
